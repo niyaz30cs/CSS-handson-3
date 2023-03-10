@@ -1,0 +1,163 @@
+.*
+{
+    margin: 0;
+    padding: 0;
+}
+.back
+{
+    background-color: dimgrey;
+}
+.first
+{
+    background-color: white;
+    border: 5px solid red;
+    color: mediumvioletred;
+    font-style: italic;
+    width: 450px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 500px;
+    box-shadow: 6px 6px 3px darkmagenta;
+    text-shadow: 1px 1px 3px;
+}
+.main
+{
+    border: 10px solid green;
+}
+.main2
+{
+  display: flex;
+  justify-content: space-between;
+}
+.box1
+{
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px;
+    color: darkmagenta;
+    width: 250px;
+    text-align: center;
+    margin-bottom: 60px;
+    box-shadow: 6px 6px 3px darkmagenta;
+    text-shadow: 1px 1px 2px darkmagenta;
+}
+.box2
+{
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin-right: 40px;
+    margin-bottom: 60px; 
+    box-shadow: 6px 6px 3px darkmagenta;
+}
+.image
+{
+    padding-top: 60px;
+    padding-left: 25px;
+
+}
+.main3
+{
+  display: flex;
+  justify-content: space-between;
+}
+.box3
+{
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px;
+    color: darkmagenta;
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-bottom: 30px;
+    box-shadow: 6px 6px 3px darkmagenta;
+    text-shadow: 2px 3px 3px;
+}
+.box4
+{
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px;
+    color: darkmagenta;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin-right: 40px;
+    margin-top: 20px;
+    box-shadow: 6px 6px 3px darkmagenta;
+    text-shadow: 2px 3px 3px;
+}
+.color
+{
+    background-color: red;
+    border-radius: 20px;
+}
+.second
+{
+    background-color: darkgreen;
+    border: 10px solid darkmagenta;
+    text-align: center;
+    width: 650px;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+
+}
+.second2
+{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+.store1
+{
+    background-color: rgb(222, 192, 76);
+    border: 2px solid gray;
+    font-style: italic;
+    width: 400px;
+    height: 250px;
+    margin-right: 4px;
+    margin-left: 5px;
+    
+}
+.store2
+{
+    background-color:rgb(222, 192, 76);
+    border: 2px solid gray;
+    font-style: italic;
+    width: 400px;
+    height: 250px;
+    margin-right: 5px;
+     
+}
+.store3
+{
+    background-color:rgb(222, 192, 76);
+    border: 2px solid gray;
+    font-style: italic; 
+    width: 650px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.last
+{
+    display: flex;
+    background-color: greenyellow;
+    border: 5px solid red;
+    border-radius: 10px;
+    color: chocolate;
+    font-style: italic;
+    justify-content: space-between;
+    text-align: center;
+    width: 450px;
+    margin-left: 450px;
+    box-shadow: 6px 6px 3px darkmagenta;
+    text-shadow: 1px 1px 3px;
+    position: fixed;
+    bottom: 40px;
+    
+}
